@@ -1,18 +1,20 @@
-## Getting Started
+# 🎓 College Management System using Java Swing
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📝 Description
+A GUI-based application for managing student, faculty, and course details. Developed using Java Swing with a focus on user-friendly interfaces, event-driven programming, and modular design.
 
-## Folder Structure
+## 🚀 Features
+- Add, update, and delete student and faculty records
+- Course assignment and department management
+- Interactive Java Swing interface
+- Form-to-form data flow
+- OOP-based modular structure
 
-The workspace contains two folders by default, where:
+## 🔧 Technologies Used
+- Java
+- Java Swing
+- Object-Oriented Programming
+- Event Handling
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📦 How to Run
+1. Clone this repository:
